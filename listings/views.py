@@ -1,7 +1,12 @@
 from django.shortcuts import render
 
+from .models import Listing
+
+
 def index(request):
-   return render(request, 'listings/listing.html')
+   return render(request, 'listings/listing.html',{
+       'name': 'Brad'
+   })
 
 def listing(request):
     return render(request, 'listings/listing.html')
