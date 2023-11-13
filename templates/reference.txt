@@ -1,0 +1,5 @@
+Course Reference:
+
+I have completed the "Python Django Dev To Deployment" course, offered by [Udemy]. The course covers a comprehensive range of topics related to developing web applications using the Django framework. I won't provide specific details about the course content to avoid copyright issues.
+
+Please visit [Udemy Website/Platform] for more information about this course and its contents.
